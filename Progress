@@ -23,3 +23,17 @@ print (bs.a.attrs)
 
 
 -------但是我根本不需要爬虫啊
+BeautifulSoup库的使用
+https://www.cnblogs.com/zhaof/p/6930955.html 
+
+Urllib库的基本使用
+https://www.cnblogs.com/zhaof/p/6910871.html
+
+python urllib模块的urlopen()的使用方法及实例
+https://www.cnblogs.com/langdashu/p/4963053.html
+
+Beautiful Soup 中文文档
+https://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html#Quick%20Start
+
+Python Documentation contents
+https://docs.python.org/3.6/contents.html
