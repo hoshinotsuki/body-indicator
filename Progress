@@ -9,3 +9,17 @@ Plotly
 
 BeautifulSoup基本用法总结
 https://blog.csdn.net/kikaylee/article/details/56841789
+from bs4 import BeautifulSoup
+url='http://www.baidu.com' 
+import urllib.request
+resp=urllib.request.urlopen(url)
+html=resp.read()
+bs=BeautifulSoup(html)
+#print( bs.prettify())
+print (bs.title)
+print (type(bs.title))
+print (bs.a.name)
+print (bs.a.attrs)
+
+
+-------但是我根本不需要爬虫啊
